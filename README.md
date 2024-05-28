@@ -2,7 +2,7 @@
 
 Very functional image scraper/sender made with discord.js
 
-# Installation:
+__Installation:__
 
 npm install discord.js-selfbot-v13
 npm install path
